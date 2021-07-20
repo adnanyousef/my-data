@@ -1,0 +1,1 @@
+{"id":"b7548b24-577b-4cc6-9f5f-63d52136df72","space":6961,"runtime":"python3.7","name":"eddy-data","path":"tqwqus","project":"b09w7ikc","account":"144798365827","region":"us-west-1","deps":["datasette","sqlite-utils"],"envs":null,"public":true,"log_level":"debug","cron":""}
