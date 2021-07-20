@@ -1,4 +1,4 @@
-datasette .data/data.db \
+datasette . \
   -p 3000 \
   -m metadata.json \
   --cors \
